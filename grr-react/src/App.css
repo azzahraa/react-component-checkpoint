@@ -1,0 +1,10 @@
+img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+h2{
+    font-family: monospace;
+    font-style: italic;
+    background-color: royalblue;
+}
